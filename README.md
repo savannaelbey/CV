@@ -1,64 +1,57 @@
-## Your Name
+## Savanna Elbey
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+An ex pharmacist and a recent Maker's Academy graduate with keen interest in discovering and learning more about the world of tech. The ability to innovate, collaborate and create products that can change and improve the quality of lives is what excites me the most about tech.
+Knowledgeable in an assortment of technologies, including Ruby, JavaScript, Python, HTML, CSS,  Ruby on Rails, React, Node and SQL. Knowledgeable in Git, TDD, and debugging processes. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         |  Description                    | Tech/tools                 |
+| ---------------------------- |  -----------------              | -----------------          |
+| Dogbook                      | A facebook for dogs             | Ruby, ruby on rails        |
+| responsiveWebApp             | A responsive e-commerce website | React, shopify, js-buy SDK |
+
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The Princess Grace Hospital** (Oct 2019 to Aug 2020)  
+Senior Clinical Pharmacist
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+* Worked as part of a multi-disciplinary team to ensure patient safety and improve the quality of care.
+* Influenced pharmaceutical intervention choices using evidence-based clinical data and NICE recommendations. 
+* Enhanced the prescribing and administration of medicines policies and practice to improve medicines optimisation .
+* Completed clinical and non-clinical audits to monitor performance and ensure continuous quality improvement process.
+* Trained new clinical and non-clinical team members.
+* Worked well independently and on a team to solve problems.
+* Organised and prioritised work to complete assignments in a timely, efficient manner.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2020 to Jan 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object-Oriented programming
+- SOLID
+- Test-driven development (RSpec/Jasmine/vanilla JS)
+- Building web applications
+- Using databases
+- Ruby
+- Ruby on Rails
+- Javascript
+- React
+- Node.js
+- Team engineering projects
+- Agile methodology
+- Pair-programming
+- Effective debugging
+- Git
 
-#### Your University / College (start_date to end_date)
+#### UCL (2009-2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- MPharm
+- 2:1
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Yoga
+Dog walking
+
+
