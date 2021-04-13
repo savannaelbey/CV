@@ -5,10 +5,11 @@ Knowledgeable in an assortment of technologies, including Ruby, JavaScript, Pyth
 
 ## Projects
 
-| Name                         |  Description                    | Tech/tools                 |
-| ---------------------------- |  -----------------              | -----------------          |
-| Dogbook                      | A facebook for dogs             | Ruby, ruby on rails        |
-| responsiveWebApp             | A responsive e-commerce website | React, shopify, js-buy SDK |
+| Name                         |  Description                          | Tech/tools                 |
+| ---------------------------- |  -----------------                    | -----------------          |
+| Dogbook                      | A facebook for dogs                   | Ruby, ruby on rails        |
+| CarParkApp                   | calculates car park charge and change | Node.js, React             |
+| responsiveWebApp             | A responsive e-commerce website       | React, shopify, js-buy SDK |
 
 
 ## Experience
