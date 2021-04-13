@@ -52,7 +52,7 @@ Senior Clinical Pharmacist
 
 ## Hobbies
 
-Yoga
-Dog walking
+* Yoga 
+* Dog walking
 
 
