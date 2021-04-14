@@ -1,11 +1,11 @@
-## Savanna Elbey
+## Savanna Elbeyioglu
 
 An ex Pharmacist and a recent Maker's Academy graduate with keen interest in discovering and learning more about the world of tech. The ability to innovate, collaborate and create products/features that can improve processes and enhance lives is what excites me the most about tech.
 Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL. Knowledgeable in Git, TDD, and debugging processes. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ## Projects
 
-Please see my Github account for full list (https://github.com/savannaelbey). 
+Please see my Github account for full list (https://github.com/savannaelbey).   
 Below is a table containing my most recent projects:
 
 | Name                         |  Description                          | Tech/tools                 |
