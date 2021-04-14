@@ -13,7 +13,7 @@ Below is a table containing my most recent projects:
 | responsiveWebApp             | A responsive e-commerce website       | React, Node.js, Shopify js-buy SDK, React testing library, Atomize |
 | CarParkApp                   | An app that calculates car park charge and change output | Node.js, React             |
 | Medify (incomplete)          | A medication and health-condition searching app | Node.js, React |
-| Dogbook                      | A facebook for dogs                   | Ruby, ruby on rails, RSpec  |
+| Dogbook                      | A facebook for dogs                   | Ruby, ruby on rails, RSpec, Heroku  |
 | chatApp                      | A chat app between 2 participants     | React, Node.js, PubNub Javascript SDK, Jest, bootstrap|
 
 
