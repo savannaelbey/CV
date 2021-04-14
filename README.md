@@ -5,7 +5,8 @@ Knowledgeable in an assortment of technologies, including JavaScript, Node.js, R
 
 ## Projects
 
-Please see my Github account for full list. Below is a table containing my most recent projects:
+Please see my Github account for full list (https://github.com/savannaelbey). 
+Below is a table containing my most recent projects:
 
 | Name                         |  Description                          | Tech/tools                 |
 | ---------------------------- |  -----------------                    | -----------------          |
