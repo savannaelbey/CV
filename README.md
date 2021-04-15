@@ -1,7 +1,16 @@
 ## Savanna Elbeyioglu
 
-An ex-pharmacist and a recent Maker's Academy graduate with keen interest in discovering and learning more about the world of tech. The ability to innovate, collaborate and create products/features that can improve processes and enhance lives, as well as the continous room for growth is what excites me the most about tech.
-Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL. Knowledgeable in Git, TDD, and debugging processes. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+After 7 years in the healthcare industry, I decided to quit my job and change direction to pursue a career in software development, a field I’ve been very curious and excited about for a long time. 
+I have seen technology change the world around me in many different ways, from the use of blockchain technology in healthcare and finance to the use of artificial intelegence in drones and self-driving vehicles, and I want to be part of this change. 
+
+I am inspired by tech's ability to positively disrupt all industries and its limitless nature which can be used to support different aspects of many lives. 
+
+To take the next step in my pursuit of a career in software development, I started a course in fullstack software developmet at Maker's Academy, where I learnt the fundementals of OOP and good industry practice.
+
+During the course, I thoroughly enjoyed collaborating with different members of my course on projects and bouncing ideas off of each other to find effective solutions. 
+Having now graduated from Makers, I am continuing my learning and looking to find a team where I can provide value and grow my technical skills with.
+
+I am Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL. Knowledgeable in Git, TDD, and debugging processes. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ## Projects
 
@@ -10,11 +19,11 @@ Below is a table containing my most recent projects:
 
 | Name                         |  Description                          | Tech/tools                 |
 | ---------------------------- |  -----------------                    | -----------------          |
-| responsiveWebApp             | A responsive e-commerce website       | React, Node.js, Shopify js-buy SDK, React testing library, Atomize |
-| CarParkApp                   | An app that calculates car park charge and change output | Node.js, React             |
-| Medify (incomplete)          | A medication and health-condition searching app | Node.js, React |
-| Dogbook                      | A facebook for dogs                   | Ruby, ruby on rails, RSpec, Heroku  |
-| chatApp                      | A chat app between 2 participants     | React, Node.js, PubNub Javascript SDK, Jest, bootstrap|
+| responsiveWebApp (https://github.com/savannaelbey/responsiveWebApp)             | A responsive e-commerce website       | React, Node.js, Shopify js-buy SDK, React testing library, Atomize |
+| CarParkApp (https://github.com/savannaelbey/CarParkApp)                  | An app that calculates car park charge and change output | Node.js, React             |
+| Medify (incomplete-https://github.com/savannaelbey/Medify)         | A medication and health-condition searching app | Node.js, React |
+| Dogbook (https://github.com/savannaelbey/dogbook)                    | A facebook for dogs                   | Ruby, ruby on rails, RSpec, Heroku  |
+| chatApp (https://github.com/savannaelbey/chatApp)                      | A chat app between 2 participants     | React, Node.js, PubNub Javascript SDK, Jest, bootstrap|
 
 
 ## Experience
@@ -60,6 +69,7 @@ care professionals.
 #### Makers Academy (Oct 2020 to Jan 2021)
 
 - Object-Oriented programming fundamentals
+- Alogrithmic complexity 
 - SOLID
 - Test-driven development (RSpec/Jasmine/vanilla JS)
 - Building web applications
