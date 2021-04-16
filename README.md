@@ -1,16 +1,16 @@
 ## Savanna Elbeyioglu
 
 After 7 years in the healthcare industry, I decided to quit my job and change direction to pursue a career in software development, a field I’ve been very curious and excited about for a long time. 
-I have seen technology change the world around me in many different ways, from the use of blockchain technology in healthcare and finance to the use of artificial intelegence in drones and self-driving vehicles, and I want to be part of this change. 
+I have seen technology change the world around me in many different ways, from the use of blockchain technology in healthcare and finance to the use of artificial intelligence in drones and self-driving vehicles, and I want to be part of this change. 
 
 I am inspired by tech's ability to positively disrupt all industries and its limitless nature which can be used to support different aspects of many lives. 
 
-To take the next step in my pursuit of a career in software development, I started a course in fullstack software developmet at Maker's Academy, where I learnt the fundementals of OOP, TDD, good industry practice, utilising and manipulating databases and building web applications using agile methodology to name a few. 
+To take the next step in my pursuit of a career in software development, I started a course in full-stack software development at Maker's Academy, where I learnt the fundamentals of OOP, TDD, good industry practice, utilising and manipulating databases and building web applications using agile methodology to name a few. 
 During the course, I thoroughly enjoyed collaborating with different members of my course on projects and bouncing ideas off of each other to find effective solutions. I also learnt that I have a strong desire to build apps and my brain is suited for it.
 
 Having now graduated from Makers, I am continuing my learning and looking to find a team where I can continue growing in.
 
-I am Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL, Git, TDD, and debugging processes, and Iam equipped with a diverse and promising skill-set enabling me to effectively self-manage during independent projects, as well as collaborate in a team setting.
+I am Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL, Git, TDD, and debugging processes, and I am equipped with a diverse and promising skill set enabling me to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ## Projects
 
