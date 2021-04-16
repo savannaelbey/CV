@@ -49,7 +49,7 @@ Below is a table containing my most recent projects:
 
 * Effectively worked within a multi-displenary team to improve the adherence to the trust's prescribing guidelines and evidence-based prescribing.
 * Provided medicines information support for hospital staff and patients.
-* Supported my Pharmacy team with dispensary work.
+* Supported my Pharmacy team with dispensary work ensuring patient safety and satisfaction.
 
 **Locum Clinical Pharmacist, Oxford University Hospital NHS Foundation Trust** (Mar 2017 to Aug 2017)
 
@@ -66,7 +66,7 @@ care professionals.
 
 #### Makers Academy (Oct 2020 to Jan 2021)
 
-- Object-Oriented programming fundamentals
+- Object-Oriented Programming fundamentals
 - SOLID
 - Test-driven development (RSpec/Jasmine/vanilla JS)
 - Building web applications
@@ -92,5 +92,6 @@ care professionals.
 * Adoption home visit volunteer, The Mayhew Animal Home (2012 - present)
 * Yoga 
 * Dog walking
+
 
 
