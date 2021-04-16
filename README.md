@@ -6,7 +6,7 @@ I have seen technology change the world around me in many different ways, from t
 To take the next step in my pursuit of a career in software development, I started a course in full-stack software development at Maker's Academy, where I learnt the fundamentals of OOP, TDD, good industry practice, utilising and manipulating databases and building web applications using agile methodology to name a few. 
 During the course, I thoroughly enjoyed collaborating with different members of my course on projects and bouncing ideas off of each other to find effective solutions. I also learnt that I have a strong desire to build apps and my brain is suited for it.
 
-After graduating from Makers, I am continuing my self-directed learning (currently improving my  React and algrothmic complexity knowledge) and looking to find a team where I can continue growing in.
+After graduating from Makers, I am continuing my self-directed learning (currently improving my knowledge of React and working my way through an algorithmic complexity course) and looking to find a team where I can continue growing in.
 
 I am Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL, Git, TDD, and debugging processes, and I am equipped with a diverse and promising skill set enabling me to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
@@ -67,7 +67,6 @@ care professionals.
 #### Makers Academy (Oct 2020 to Jan 2021)
 
 - Object-Oriented programming fundamentals
-- Alogrithmic complexity 
 - SOLID
 - Test-driven development (RSpec/Jasmine/vanilla JS)
 - Building web applications
