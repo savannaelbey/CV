@@ -5,12 +5,12 @@ I have seen technology change the world around me in many different ways, from t
 
 I am inspired by tech's ability to positively disrupt all industries and its limitless nature which can be used to support different aspects of many lives. 
 
-To take the next step in my pursuit of a career in software development, I started a course in fullstack software developmet at Maker's Academy, where I learnt the fundementals of OOP and good industry practice.
+To take the next step in my pursuit of a career in software development, I started a course in fullstack software developmet at Maker's Academy, where I learnt the fundementals of OOP, TDD, good industry practice, utilising and manipulating databases and building web applications using agile methodology to name a few. 
+During the course, I thoroughly enjoyed collaborating with different members of my course on projects and bouncing ideas off of each other to find effective solutions. I also learnt that I have a strong desire to build apps and my brain is suited for it.
 
-During the course, I thoroughly enjoyed collaborating with different members of my course on projects and bouncing ideas off of each other to find effective solutions. 
-Having now graduated from Makers, I am continuing my learning and looking to find a team where I can provide value and grow my technical skills with.
+Having now graduated from Makers, I am continuing my learning and looking to find a team where I can continue growing in.
 
-I am Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL. Knowledgeable in Git, TDD, and debugging processes. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+I am Knowledgeable in an assortment of technologies, including JavaScript, Node.js, React, Python, Django, HTML, CSS, Ruby, Ruby on Rails and SQL, Git, TDD, and debugging processes, and Iam equipped with a diverse and promising skill-set enabling me to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ## Projects
 
